@@ -1,4 +1,4 @@
-# Michael Rupisan | Sovereign Growth Architect
+# Michael Rupisan | AI Automations Architect | Sovereign Infrastructure Engineer
 
 > **Thesis:** Engineering the infrastructure where Agentic Intelligence meets Market Capital. 
 > **Status:** Initializing the 2026 Sovereign Growth Protocol.
