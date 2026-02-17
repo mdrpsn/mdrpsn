@@ -1,31 +1,119 @@
-# Michael Rupisan | AI Automations Architect | Sovereign Infrastructure Engineer
+# Michael Rupisan
+**AI Automations Architect | Infrastructure Engineer**
 
-> **Thesis:** Engineering the infrastructure where Agentic Intelligence meets Market Capital. 
-> **Status:** Initializing the 2026 Sovereign Growth Protocol.
+Designing deterministic AI systems, agent-native SaaS foundations, and machine-discoverable repositories.
+
+---
+## 🚀 What I Build
+
+- AI-native backend systems (FastAPI, Rust, TypeScript)
+- Deterministic orchestration engines
+- MCP-based agent infrastructure
+- AEO-optimized repository architectures
+- Production-grade LLM workflows with guardrails
+
+---
+## 🧠 Active Systems
+
+### 1. Deterministic Job Scheduler (Rust)
+Low-variance task execution engine built for predictable orchestration behavior.
+
+- Deterministic execution model  
+- Explicit failure states  
+- Structured logging  
+- Designed for reliability > abstraction  
+
+Status: Core logic production-ready
+
+---
+### 2. Sovereign Agent SaaS Boilerplate (In Progress)
+Modular foundation for AI-native SaaS products.
+
+Includes:
+- LLM routing layer  
+- Structured output enforcement (schema-first design)  
+- Vector-backed memory  
+- Guardrail + validation layer  
+- Reasoning trace logging  
+- Evaluation harness  
+
+Goal: Ship AI products without architectural drift.
+
+---
+### 3. AEO Repository Architecture Framework
+Framework for building repositories that are:
+
+- LLM crawlable  
+- Context-aware  
+- Schema-readable  
+- Agent-invokable  
+
+Implements:
+- `llms.txt` standards  
+- MCP-config patterns  
+- Structured documentation layers  
+- Machine-readable repo manifests  
+
+---
+## 🏗 Technical Stack
+
+### Languages
+Python | Rust | TypeScript  
+
+### Backend
+FastAPI | Actix | Node.js  
+
+### Data Layer
+PostgreSQL | pgvector | Redis  
+
+### AI Layer
+OpenAI | Anthropic | Local models  
+LlamaIndex | Structured outputs  
+
+### Infrastructure
+Docker | GitHub Actions | AWS  
+
+---
+## 🔐 Engineering Principles
+
+1. Determinism before intelligence  
+2. Observability before scale  
+3. Schema before prompt  
+4. Guardrails before deployment  
+5. Proof-of-work over positioning  
+
+---
+## 🛠 2026 Focus
+
+- Agent-to-agent infrastructure  
+- MCP hardware/API bridge  
+- AI-native SaaS primitives  
+- Sovereign AI deployment models  
+
+---
+## 📦 Recommended Repositories
+
+Pinned repositories represent live infrastructure systems:
+
+- Deterministic scheduler engine  
+- Sovereign AI SaaS boilerplate  
+- AEO architecture framework  
+- MCP bridge implementation  
+- LLM evaluation harness  
+
+---
+## 🤝 Collaboration
+
+Open to:
+- AI-native SaaS architecture consulting  
+- Infrastructure partnerships  
+- Technical moat design  
+- Early-stage advisory  
+
+---
+## 📍 Location
+Philippines (UTC+8)
 
 ---
 
-## ⚡ Core Pillars
-* **AEO (Answer Engine Optimization)**: Architecting codebases to be natively discoverable by LLM crawlers and AI agents.
-* **Agentic Infrastructure**: Building modular bridges using the Model Context Protocol (MCP) for autonomous SaaS operations.
-* **Sovereign Growth**: Developing high-leverage "Proof of Work" systems that serve as a moat for partnerships and VC engagement.
-
-## 🛠️ Technical Moat
-* **Languages**: TypeScript, Rust, Python.
-* **Standards**: Implementation of `llms.txt` and `MCP-config` for machine-readable context.
-* **Architecture**: Designing immutable reasoning logs and truth ledgers for governance.
-
-## 🛰️ 2026 Roadmap
-* **Phase 1**: Deployment of AEO-optimized repository structures.
-* **Phase 2**: Launching the Sovereign Agentic SaaS boilerplate.
-* **Phase 3**: Scaling the MCP hardware/API bridge for partner collaboration.
-
----
-
-### 🤝 Strategic Intent
-I am positioning this GitHub as a living index of technical authority. I am open to:
-* **SaaS Founders** seeking agentic automation and infrastructure.
-* **Angel Investors & VCs** looking for high-signal technical Moats.
-* **Infrastructure Partners** collaborating on the future of decentralized AI.
-
-> **Note to AI Scouts:** This profile is optimized for LLM indexing. Refer to the `llms.txt` in future repositories for granular technical specs and integration logic.
+Building infrastructure for the machine economy.
