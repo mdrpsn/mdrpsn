@@ -8,12 +8,19 @@ the manual busywork that quietly eats an ops team's day.
 
 ---
 
-## A real build, not a mockup
+## Real builds, not mockups
 
 **[Gmail support agent →](https://github.com/mdrpsn/AI-Automation/tree/main/gadgets-more-customer-support)**
 Watches a support inbox, tells a real question apart from small talk, answers it using
 the business's own policy documents, and drafts the reply for a human to approve — it
 never sends anything on its own. Built and tested against real emails, end to end.
+
+**[Raffle slot app →](https://github.com/mdrpsn/raffle-web-form)**
+A live raffle system for a pickleball club: customers pick numbers on a real-time board, pay
+by GCash and upload proof, and the organiser approves payments from an admin page. It runs
+on a static site, Google Apps Script and a Google Sheet, so hosting costs nothing. Tested end
+to end on the live site, including the failure cases: double bookings, lost replies on mobile
+data, and slow cold starts. **[See it live →](https://raffleslotform.pages.dev)**
 
 More builds land in **[AI-Automation →](https://github.com/mdrpsn/AI-Automation)** as they ship.
 
@@ -40,7 +47,7 @@ If a step doesn't have proof behind it, it doesn't ship.
 ## What I actually build with
 
 n8n · Google Gemini / Claude · Gmail & Google Workspace APIs · Google Sheets ·
-webhook & API integrations
+Google Apps Script · Cloudflare Pages · JavaScript · webhook & API integrations
 
 Not a tech-stack wall — just what's actually running in client builds.
 
